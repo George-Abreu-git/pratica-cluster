@@ -1,0 +1,6 @@
+cat > .gitignore << 'EOF'
+.vagrant/
+*.log
+*.vbox-prev
+*.vbox
+EOF
